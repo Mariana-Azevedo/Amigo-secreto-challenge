@@ -1,6 +1,9 @@
 
 # 🎁 Sistema de Sorteio de Amigo Secreto  
 
+🔗 **Acesse a aplicação aqui:**  
+👉 [Amigo Secreto Challenge](https://amigo-secreto-challenge-liard.vercel.app/)  
+
 ![image](https://github.com/user-attachments/assets/0a255d30-5966-4fd9-88b2-590953f6705d)
 
 
@@ -25,8 +28,6 @@ Este é um sistema de sorteio de amigo secreto desenvolvido como parte do *Chall
 - 🔄 Garantia de que não há repetições no sorteio  
 - 🎨 Interface simples e fácil de usar  
 
-🔗 **Acesse a aplicação aqui:**  
-👉 [Amigo Secreto Challenge](https://amigo-secreto-challenge-liard.vercel.app/)  
 
 ## 🔗 Acesso ao Projeto  
 O projeto é **público** e pode ser acessado diretamente no GitHub.  
